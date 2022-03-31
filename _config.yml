@@ -48,7 +48,7 @@ linkedin_username: niyangbai
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Niyang and I'm a second year master student at Uni Bonn. I have worked at a several of companies gaining teamwork and leadership skills.
+  Hi, my name's Niyang and I'm a second year master student at Uni Bonn. I have worked at several companies gaining teamwork and leadership skills.
   I am most skilled in: <mark>Python</mark> and <mark>R</mark>
 
 content:
