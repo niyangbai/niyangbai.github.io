@@ -9,7 +9,7 @@ version: 2
 name: Niyang Bai
 title: M.Sc. Economics at Uni Bonn
 email: niyangbai@gmail.com
-website: https://github.com/niyangbai
+# website: https://github.com/niyangbai
 
 # Dark Mode (true/false/never)
 darkmode: false
