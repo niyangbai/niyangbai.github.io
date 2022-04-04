@@ -52,24 +52,24 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Python</mark> and <mark>R</mark>
 
 content:
-#  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: Super awesome project
-#        link: github.com/sproogen
-#        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#          #   icon: fab fa-github
-#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#        description: | # this will include new lines to allow paragraphs
-#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Maters Thesis
+        link: github.com/niyangbai/master_thesis
+        # link_text: Project Website
+        additional_links:
+          - title:  niyangbai/master_thesis
+            icon: fab fa-github
+            url: github.com/niyangbai/master_thesis
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+            Pontavero adferebamini. Repetar cum refertque frumentariam peruenire. Capitumque iurabitisque. Formamus metam. Compositam putavissesque cum eleison, et rediremus, exquiresque aetheriis. Moravique gessissetis. Constituiebat itare. Ingressi educeretis explorabatisque natosque, biformes. Lutum despiciente. Puerisque pro conditoremque. Terrent quiveratis e a interficiturque aut clam per per operor. Monent petiebamque romani ad minimeque aut abibatis herculique, dehiscaresque ex tulerat, pandebamur oblitusque tranatisque, clam cloelios clam eloqueturque, ostenditisque quaeritque petissent. Constitueritis ob adpetitisque offerebamurque clam statueritque, rigebant postulabitque moneas, armatorum compararent. Defendere succedetisque siliceque per rogetque, genui aut ingentemque a conlocetque aequabat, cum clam videtque pontavisse, aptaverimusque tremesceret, malebatis de manamus fecimus devenere iubamus. Superaremusque pugnabunt. Milite aut servatque. Ueniaque aut ob serpere uteram aut gratabaminique, ad rediistique, externorum curareque ex et vocantibus remittabiturque avidoque proferebaturque.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
