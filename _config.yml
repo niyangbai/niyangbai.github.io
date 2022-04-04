@@ -63,9 +63,9 @@ content:
           - title:  niyangbai/master_thesis
             icon: fab fa-github
             url: github.com/niyangbai/master_thesis
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+           - title:  niyangbai/master_thesis
+             icon: fab fa-github
+             url: github.com/niyangbai/master_thesis
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
