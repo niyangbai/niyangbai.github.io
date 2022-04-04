@@ -57,7 +57,7 @@ content:
     content:
       - layout: top-middle
         title: Maters Thesis
-        link: github.com/niyangbai/master_thesis
+#        link: github.com/niyangbai/master_thesis
         # link_text: Project Website
         additional_links:
           - title:  niyangbai/master_thesis
