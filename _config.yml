@@ -57,15 +57,15 @@ content:
     content:
       - layout: left
         title: Maters Thesis
-#        link: github.com/niyangbai/master_thesis
+        link: github.com/niyangbai/master_thesis
         # link_text: Project Website
-        additional_links:
-          - title:  niyangbai/master_thesis
-            icon: fab fa-github
-            url: github.com/niyangbai/master_thesis
-          - title:  niyangbai/master_thesis
-            icon: fab fa-github
-            url: github.com/niyangbai/master_thesis
+        #additional_links:
+          #- title:  niyangbai/master_thesis
+            #icon: fab fa-github
+            #url: github.com/niyangbai/master_thesis
+          #- title:  niyangbai/master_thesis
+            #icon: fab fa-github
+            #url: github.com/niyangbai/master_thesis
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
