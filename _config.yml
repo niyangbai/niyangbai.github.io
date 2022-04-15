@@ -57,7 +57,7 @@ content:
     content:
       - layout: left
         title: Maters Thesis
-        link: github.com/niyangbai/master_thesis
+        link: https://github.com/niyangbai/master_thesis_2022
         # link_text: Project Website
         #additional_links:
           #- title:  niyangbai/master_thesis
