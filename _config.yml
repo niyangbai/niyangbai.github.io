@@ -55,7 +55,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: top-middle
         title: Maters Thesis
         link: https://github.com/niyangbai/master_thesis_2022
         link_text: For more information
@@ -89,6 +89,7 @@ content:
           - spatial analysis with GIS;
           - finial results visualization ; 
           - making part of the slides for finial report;
+          
       - layout: left
         title: BARE International
         link: www.bareinternational.eu
