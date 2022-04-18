@@ -67,9 +67,9 @@ content:
             #icon: fab fa-github
             #url: github.com/niyangbai/master_thesis
         quote: >
-          Pontavero adferebamini. Repetar cum refertque frumentariam peruenire.
+          Stock Price Prediction with Social Media Comments.
         description: | # this will include new lines to allow paragraphs
-            Pontavero adferebamini. Repetar cum refertque frumentariam peruenire. Capitumque iurabitisque. Formamus metam. Compositam putavissesque cum eleison, et rediremus, exquiresque aetheriis. Moravique gessissetis. Constituiebat itare. Ingressi educeretis explorabatisque natosque, biformes. Lutum despiciente. Puerisque pro conditoremque. Terrent quiveratis e a interficiturque aut clam per per operor. Monent petiebamque romani ad minimeque aut abibatis herculique, dehiscaresque ex tulerat, pandebamur oblitusque tranatisque, clam cloelios clam eloqueturque, ostenditisque quaeritque petissent. Constitueritis ob adpetitisque offerebamurque clam statueritque, rigebant postulabitque moneas, armatorum compararent. Defendere succedetisque siliceque per rogetque, genui aut ingentemque a conlocetque aequabat, cum clam videtque pontavisse, aptaverimusque tremesceret, malebatis de manamus fecimus devenere iubamus. Superaremusque pugnabunt. Milite aut servatque. Ueniaque aut ob serpere uteram aut gratabaminique, ad rediistique, externorum curareque ex et vocantibus remittabiturque avidoque proferebaturque.
+            In this project, I plan to use natural language data from r/wallstreetbets during the GameStop (NYSE: GME)'s short squeeze event to build a convolutional neural network, which can predict its stock prices, and then compare it with classic time series predictive models to check its validity.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -83,8 +83,12 @@ content:
         quote: >
           Real estate consulting, investment, and tender services in China.
         description: | # this will include new lines to allow paragraphs
-            Pontavero adferebamini. Repetar cum refertque frumentariam peruenire. Capitumque iurabitisque. Formamus metam. Compositam putavissesque cum eleison, et rediremus, exquiresque aetheriis. Moravique gessissetis. Constituiebat itare. Ingressi educeretis explorabatisque natosque, biformes. Lutum despiciente. Puerisque pro conditoremque. Terrent quiveratis e a interficiturque aut clam per per operor. Monent petiebamque romani ad minimeque aut abibatis herculique, dehiscaresque ex tulerat, pandebamur oblitusque tranatisque, clam cloelios clam eloqueturque, ostenditisque quaeritque petissent. Constitueritis ob adpetitisque offerebamurque clam statueritque, rigebant postulabitque moneas, armatorum compararent. Defendere succedetisque siliceque per rogetque, genui aut ingentemque a conlocetque aequabat, cum clam videtque pontavisse, aptaverimusque tremesceret, malebatis de manamus fecimus devenere iubamus. Superaremusque pugnabunt. Milite aut servatque. Ueniaque aut ob serpere uteram aut gratabaminique, ad rediistique, externorum curareque ex et vocantibus remittabiturque avidoque proferebaturque.
-
+          - participating in bids writing; 
+          - crawling and cleaning historical data of land transaction; 
+          - adjusting given models based on new data;
+          - spatial analysis with GIS;
+          - finial results visualization ; 
+          - making part of the slides for finial report;
       - layout: left
         title: BARE International
         link: www.bareinternational.eu
@@ -94,7 +98,10 @@ content:
         quote: >
           BARE International was born from the need for mystery customer research at the national and global level.
         description: | # this will include new lines to allow paragraphs
-            Pontavero adferebamini. Repetar cum refertque frumentariam peruenire. Capitumque iurabitisque. Formamus metam. Compositam putavissesque cum eleison, et rediremus, exquiresque aetheriis. Moravique gessissetis. Constituiebat itare. Ingressi educeretis explorabatisque natosque, biformes. Lutum despiciente. Puerisque pro conditoremque. Terrent quiveratis e a interficiturque aut clam per per operor. Monent petiebamque romani ad minimeque aut abibatis herculique, dehiscaresque ex tulerat, pandebamur oblitusque tranatisque, clam cloelios clam eloqueturque, ostenditisque quaeritque petissent. Constitueritis ob adpetitisque offerebamurque clam statueritque, rigebant postulabitque moneas, armatorum compararent. Defendere succedetisque siliceque per rogetque, genui aut ingentemque a conlocetque aequabat, cum clam videtque pontavisse, aptaverimusque tremesceret, malebatis de manamus fecimus devenere iubamus. Superaremusque pugnabunt. Milite aut servatque. Ueniaque aut ob serpere uteram aut gratabaminique, ad rediistique, externorum curareque ex et vocantibus remittabiturque avidoque proferebaturque.
+          - taking part in market investigations;
+          - assisting in data analysing and editing the final report for market investigations; 
+          - checking the logic and understandability of questionnaire/ guidelines before the projects start; 
+          - training and assigning tasks for part-time and home-based employees, helping them solve problems;
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -106,8 +113,8 @@ content:
         quote: >
           The University of Bonn is internationally recognized as one of the leading research universities in Germany.
         description: | # this will include new lines to allow paragraphs
-          Pontavero adferebamini. Repetar cum refertque frumentariam peruenire. Capitumque iurabitisque. Formamus metam. Compositam putavissesque cum eleison, et rediremus, exquiresque aetheriis. Moravique gessissetis. Constituiebat itare. Ingressi educeretis explorabatisque natosque, biformes. Lutum despiciente. Puerisque pro conditoremque. Terrent quiveratis e a interficiturque aut clam per per operor. Monent petiebamque romani ad minimeque aut abibatis herculique, dehiscaresque ex tulerat, pandebamur oblitusque tranatisque, clam cloelios clam eloqueturque, ostenditisque quaeritque petissent. Constitueritis ob adpetitisque offerebamurque clam statueritque, rigebant postulabitque moneas, armatorum compararent. Defendere succedetisque siliceque per rogetque, genui aut ingentemque a conlocetque aequabat, cum clam videtque pontavisse, aptaverimusque tremesceret, malebatis de manamus fecimus devenere iubamus. Superaremusque pugnabunt. Milite aut servatque. Ueniaque aut ob serpere uteram aut gratabaminique, ad rediistique, externorum curareque ex et vocantibus remittabiturque avidoque proferebaturque.
-      
+          - a two-year full-time quantitative and research oriented master's program
+          - main courses including: Mathematics, Microeconomics, Macroeconomics, Econometrics, Dynamic Methods, Computational Statistics, Time Series and Labor Economics      
       - layout: left
         title: ENSAI
         caption: 2021 - 2022
@@ -115,8 +122,9 @@ content:
         quote: >
           Ensai is the only major grande école d'ingénieurs entirely dedicated to the professions of statistical engineering and information processing.
         description: | # this will include new lines to allow paragraphs
-          Pontavero adferebamini. Repetar cum refertque frumentariam peruenire. Capitumque iurabitisque. Formamus metam. Compositam putavissesque cum eleison, et rediremus, exquiresque aetheriis. Moravique gessissetis. Constituiebat itare. Ingressi educeretis explorabatisque natosque, biformes. Lutum despiciente. Puerisque pro conditoremque. Terrent quiveratis e a interficiturque aut clam per per operor. Monent petiebamque romani ad minimeque aut abibatis herculique, dehiscaresque ex tulerat, pandebamur oblitusque tranatisque, clam cloelios clam eloqueturque, ostenditisque quaeritque petissent. Constitueritis ob adpetitisque offerebamurque clam statueritque, rigebant postulabitque moneas, armatorum compararent. Defendere succedetisque siliceque per rogetque, genui aut ingentemque a conlocetque aequabat, cum clam videtque pontavisse, aptaverimusque tremesceret, malebatis de manamus fecimus devenere iubamus. Superaremusque pugnabunt. Milite aut servatque. Ueniaque aut ob serpere uteram aut gratabaminique, ad rediistique, externorum curareque ex et vocantibus remittabiturque avidoque proferebaturque.
-               
+          - the final year of the Engineer Statistician Program, with a specialization in ISTS (Ingénierie Statistique des Territoires et de la Santé)
+          - main courses including: Machine Learning, Territorial Analysis, Economic Modeling and Advanced Econometrics
+
       - layout: left
         title: Shanghai Lixin University of Accounting and Finance
         caption: 2016 - 2020
@@ -124,7 +132,8 @@ content:
         quote: >
           Established in 1928 and was founded by the “Father of the Chinese Modern Accounting”, Mr. Pan Xulun.
         description: | # this will include new lines to allow paragraphs
-          Pontavero adferebamini. Repetar cum refertque frumentariam peruenire. Capitumque iurabitisque. Formamus metam. Compositam putavissesque cum eleison, et rediremus, exquiresque aetheriis. Moravique gessissetis. Constituiebat itare. Ingressi educeretis explorabatisque natosque, biformes. Lutum despiciente. Puerisque pro conditoremque. Terrent quiveratis e a interficiturque aut clam per per operor. Monent petiebamque romani ad minimeque aut abibatis herculique, dehiscaresque ex tulerat, pandebamur oblitusque tranatisque, clam cloelios clam eloqueturque, ostenditisque quaeritque petissent. Constitueritis ob adpetitisque offerebamurque clam statueritque, rigebant postulabitque moneas, armatorum compararent. Defendere succedetisque siliceque per rogetque, genui aut ingentemque a conlocetque aequabat, cum clam videtque pontavisse, aptaverimusque tremesceret, malebatis de manamus fecimus devenere iubamus. Superaremusque pugnabunt. Milite aut servatque. Ueniaque aut ob serpere uteram aut gratabaminique, ad rediistique, externorum curareque ex et vocantibus remittabiturque avidoque proferebaturque.    
+          - a four-year full-time bachelor's program
+          - main courses including: Advanced Mathematics, Linear Algebra, Statistics, Probability Theory, Microeconomics, Macroeconomics and Econometrics
 
   - title: A Little More About Me
     layout: text
