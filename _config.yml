@@ -56,7 +56,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Maters Thesis
+        title: Deep Learning Project
         link: https://github.com/niyangbai/master_thesis_2022
         link_text: For more information
         # additional_links:
@@ -70,6 +70,22 @@ content:
           Stock Price Prediction with Social Media Comments.
         description: | # this will include new lines to allow paragraphs
             In this project, I plan to use natural language data from r/wallstreetbets during the GameStop (NYSE: GME)'s short squeeze event to build a convolutional neural network, which can predict its stock prices, and then compare it with classic time series predictive models to check its validity.
+
+      - layout: left
+        title: Master's Thesis
+        link: https://github.com/niyangbai/master_thesis_2022
+        link_text: For more information
+        # additional_links:
+          #- title:  niyangbai/master_thesis_2022
+          #  icon: fab fa-github
+          #  url: https://github.com/niyangbai/master_thesis_2022
+          #- title:  niyangbai/master_thesis
+            #icon: fab fa-github
+            #url: github.com/niyangbai/master_thesis
+        quote: >
+          Does the minimum wage reduce the ethnic wage gap?
+        description: | # this will include new lines to allow paragraphs
+            Often, income inequality exists across ethnical groups. Minimum wages have long been seen as an important part of public policy to deal with poverty and this kind of inequality. I want to verify whether the minimum wage reduces the income gap between races.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
