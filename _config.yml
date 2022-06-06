@@ -20,7 +20,7 @@ github_username:  niyangbai
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
-# flickr_username: jekyll
+flickr_username: bainiyang
 # instagram_username: jameswgrant
 linkedin_username: niyangbai
 # xing_username: jekyll
@@ -162,8 +162,7 @@ content:
       - Soccer
       - Gaming
       - Music
-      - link: https://www.flickr.com/people/195567370@N08/
-        link_text: Film Shooting
+      - Film Shooting
       
 # Look at this cool image  
 # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
