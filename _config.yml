@@ -57,7 +57,7 @@ content:
     content:
     
       - layout: left
-        title: Does the minimum wage reduce the ethnic wage gap?
+        title: Master's Thesis
         link: https://github.com/niyangbai/wagegap22
         link_text: For more information
         # additional_links:
@@ -74,7 +74,7 @@ content:
 
 
       - layout: left
-        title: Stock Price Prediction with Social Media Comments
+        title: Deep Learning Project
         link: https://github.com/niyangbai/GameStopPrediction
         link_text: For more information
         # additional_links:
