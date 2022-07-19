@@ -57,8 +57,8 @@ content:
     content:
     
       - layout: left
-        title: Master's Thesis
-        link: https://github.com/niyangbai/thesis_2022
+        title: Does the minimum wage reduce the ethnic wage gap?
+        link: https://github.com/niyangbai/wagegap22
         link_text: For more information
         # additional_links:
           #- title:  niyangbai/master_thesis_2022
@@ -74,8 +74,8 @@ content:
 
 
       - layout: left
-        title: Deep Learning Project
-        link: https://github.com/niyangbai/deep_learning_2022
+        title: Stock Price Prediction with Social Media Comments
+        link: https://github.com/niyangbai/GameStopPrediction
         link_text: For more information
         # additional_links:
           #- title:  niyangbai/master_thesis_2022
