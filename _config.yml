@@ -58,15 +58,16 @@ content:
     
       - layout: left
         title: Master's Thesis
+        github: https://github.com/niyangbai/wagegap22
         #link: https://github.com/niyangbai/wagegap22
         #link_text: For more information
-        additional_links:
-          - title:  wagegap22
+        #additional_links:
+          #- title:  wagegap22
+           # icon: fab fa-github
+           # url: https://github.com/niyangbai/wagegap22
+         # - title:  wagegap22package
           #  icon: fab fa-github
-            url: https://github.com/niyangbai/wagegap22
-          - title:  wagegap22package
-            #icon: fab fa-github
-            url: github.com/niyangbai/wagegap22package
+           # url: github.com/niyangbai/wagegap22package
         quote: >
           Does the minimum wage reduce the ethnic wage gap?
         description: | # this will include new lines to allow paragraphs
@@ -75,8 +76,9 @@ content:
 
       - layout: left
         title: Deep Learning Project
-        link: https://github.com/niyangbai/GameStopPrediction
-        link_text: For more information
+        github: https://github.com/niyangbai/GameStopPrediction
+        #link: https://github.com/niyangbai/GameStopPrediction
+        #link_text: For more information
         # additional_links:
           #- title:  niyangbai/master_thesis_2022
           #  icon: fab fa-github
