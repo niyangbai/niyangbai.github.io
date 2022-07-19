@@ -58,15 +58,15 @@ content:
     
       - layout: left
         title: Master's Thesis
-        link: https://github.com/niyangbai/wagegap22
-        link_text: For more information
-        # additional_links:
-          #- title:  niyangbai/master_thesis_2022
+        #link: https://github.com/niyangbai/wagegap22
+        #link_text: For more information
+        additional_links:
+          - title:  wagegap22
           #  icon: fab fa-github
-          #  url: https://github.com/niyangbai/master_thesis_2022
-          #- title:  niyangbai/master_thesis
+            url: https://github.com/niyangbai/wagegap22
+          - title:  wagegap22package
             #icon: fab fa-github
-            #url: github.com/niyangbai/master_thesis
+            url: github.com/niyangbai/wagegap22package
         quote: >
           Does the minimum wage reduce the ethnic wage gap?
         description: | # this will include new lines to allow paragraphs
