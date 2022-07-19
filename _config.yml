@@ -77,9 +77,9 @@ content:
         title: Deep Learning Project
         #link: https://github.com/niyangbai/GameStopPrediction
         #link_text: For more information
-        # additional_links:
-          #- title:  niyangbai/master_thesis_2022
-          #  icon: fab fa-github
+         additional_links:
+          - title: https://github.com/niyangbai/GameStopPrediction
+            icon: fab fa-github
           #  url: https://github.com/niyangbai/master_thesis_2022
           #- title:  niyangbai/master_thesis
             #icon: fab fa-github
