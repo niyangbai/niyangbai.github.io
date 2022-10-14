@@ -103,10 +103,9 @@ content:
         quote: >
           Fresenius Kabi is a global healthcare company that specializes in lifesaving medicines and technologies for infusion, transfusion and clinical nutrition.
         description: | # this will include new lines to allow paragraphs
-          - supporting the team in analyzing and preparing of IT data related to our organization
-          - organizing project and database driven information e.g. parts of application portfolio
-          - summarizing complex information as a base for discussion of strategic initiatives (management summaries)
-          - supporting in different strategic projects
+          - supporting analyzing and preparing IT-related data,
+          - organizing project and database-driven information systems,
+          - summarizing complex information as a base for discussion of strategic initiatives
     
       - layout: left
         title: Shanghai Urban Real Estate Appraisal Co., Ltd.
