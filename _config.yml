@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Niyang Bai
-title: M.Sc. Economics at Uni Bonn
+title: Intern @ Fresenius Kabi | M.Sc. Economics @ Uni Bonn | M.Sc. International information System @ FAU
 email: niyangbai@gmail.com
 # website: https://github.com/niyangbai
 
@@ -48,7 +48,7 @@ linkedin_username: niyangbai
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Niyang and I'm a second year master student at Uni Bonn. I have worked at several companies gaining teamwork and leadership skills.
+  Hi, my name's Niyang and I'm a graduate student of FAU. I have worked at several companies gaining teamwork and leadership skills.
   I am most skilled in: <mark>Python</mark>, <mark>R</mark> and <mark>C</mark>
 
 content:
@@ -93,6 +93,21 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+      - layout: left
+        title: Fresenius Kabi
+        link: www.fresenius-kabi.com
+        # link_text: www.valuer.org.cn
+        sub_title: Internship at Global Information & Digital Technology
+        caption: Oct 2022 - Apr 2023
+        quote: >
+          Fresenius Kabi is a global healthcare company that specializes in lifesaving medicines and technologies for infusion, transfusion and clinical nutrition.
+        description: | # this will include new lines to allow paragraphs
+          - supporting the team in analyzing and preparing of IT data related to our organization
+          - organizing project and database driven information e.g. parts of application portfolio
+          - summarizing complex information as a base for discussion of strategic initiatives (management summaries)
+          - supporting in different strategic projects
+    
       - layout: left
         title: Shanghai Urban Real Estate Appraisal Co., Ltd.
         link: www.valuer.org.cn
