@@ -49,7 +49,7 @@ linkedin_username: niyangbai
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Niyang and I'm a second year master student at Uni Bonn. I have worked at several companies gaining teamwork and leadership skills.
-  I am most skilled in: <mark>Python</mark> and <mark>R</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>R</mark> and <mark>C</mark>
 
 content:
   - title: Projects # Title for the section
@@ -102,12 +102,11 @@ content:
         quote: >
           Real estate consulting, investment, and tender services in China.
         description: | # this will include new lines to allow paragraphs
-          - participating in bids writing; 
-          - crawling and cleaning historical data of land transaction; 
-          - adjusting given models based on new data;
-          - spatial analysis with GIS;
-          - finial results visualization ; 
-          - making part of the slides for finial report;
+          - managing the Database for Shanghai Geographic Information
+          - crawling and cleaning data of land transactions
+          - adjusting given models based on new crawled data
+          - analyzing spatial factors influencing price and visualizing the result
+          - assisting in government project bidding and presentation
           
       - layout: left
         title: BARE International
@@ -118,14 +117,22 @@ content:
         quote: >
           BARE International was born from the need for mystery customer research at the national and global level.
         description: | # this will include new lines to allow paragraphs
-          - taking part in market investigations;
-          - assisting in data analysing and editing the final report for market investigations; 
-          - checking the logic and understandability of questionnaire/ guidelines before the projects start; 
-          - training and assigning tasks for part-time and home-based employees, helping them solve problems;
+          - taking part in the marketing research
+          - assisting in data analysis, including raw data cleaning, and panel constructing
+          - training, and assigning tasks for part-time and home-based employees, helping them solve problems
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: University of Erlangen–Nuremberg
+        caption: 2022 - 2024
+        sub_title: MSc International Information System
+        quote: >
+          FAU is the second largest state university in the state of Bavaria.
+        description: | # this will include new lines to allow paragraphs
+          - a two-year full-time masters' program in information technology, focusing on informatics
+       
       - layout: left
         title: University of Bonn
         caption: 2020 - 2022
