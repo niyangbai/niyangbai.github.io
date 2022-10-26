@@ -48,8 +48,9 @@ linkedin_username: niyangbai
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Niyang and I'm a graduate student of FAU. I have worked at several companies gaining teamwork and leadership skills.
-  I am most skilled in: <mark>Python</mark>, <mark>R</mark> and <mark>C</mark>
+  Hi, my name's Niyang and I'm a graduate student of FAU. I have a quantitative background, and I am proficient in data analysis and economic modelling. 
+  I have worked at several companies gaining teamwork and leadership skills.
+  I am most skilled in: <mark>Python</mark> and <mark>R</mark>
 
 content:
   - title: Projects # Title for the section
@@ -103,9 +104,10 @@ content:
         quote: >
           Fresenius Kabi is a global healthcare company that specializes in lifesaving medicines and technologies for infusion, transfusion and clinical nutrition.
         description: | # this will include new lines to allow paragraphs
-          - supporting analyzing and preparing IT-related data,
+          - analyzing and preparing IT-related data,
           - organizing project and database-driven information systems,
-          - summarizing complex information as a base for discussion of strategic initiatives
+          - summarizing complex information as a base for discussion of strategic initiatives,
+          - maintaining IT internal website
     
       - layout: left
         title: Shanghai Urban Real Estate Appraisal Co., Ltd.
